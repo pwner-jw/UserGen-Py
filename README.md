@@ -11,8 +11,7 @@ A fast, lightweight Python implementation of the classic `username-anarchy` tool
 ## 🛠️ Installation
 No dependencies required. Just clone and run with Python 3.
 ```bash
-git clone [https://github.com/pwner-jw/UserGen-Py.git](https://github.com/pwner-jw/UserGen-Py.git)
-cd UserGen-Py
+git clone https://github.com/pwner-jw/UserGen-Py.git && cd UserGen-Py
 ```
 
 ## 📖 Usage
